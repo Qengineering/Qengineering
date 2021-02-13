@@ -7,11 +7,17 @@
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_32-bits)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_64-bits)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Classification_Jetson-Nano)
+    + [ncnn ShuffleNetV2 Raspberry Pi](https://github.com/Qengineering/ShuffleNetV2-ncnn)
+    + [ncnn SqueezeNet Raspberry Pi](https://github.com/Qengineering/SqueezeNet-ncnn)
   * SSD
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_32-bits)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_64-bits)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_SSD_Jetson-Nano)
-    + [ncnn PeeleeNet_SSD Raspberry Pi 64](https://github.com/Qengineering/PeleeNet_SSD)
+    + [ncnn PeeleeNet Raspberry Pi 64](https://github.com/Qengineering/PeleeNet_SSD)
+    + [ncnn YoloV3 Raspberry Pi 64](https://github.com/Qengineering/MobileNetV2_YOLOV3_ncnn)
+    + [ncnn YoloV4 Raspberry Pi 64](https://github.com/Qengineering/YoloV4-ncnn-Raspberry-Pi-4)
+    + [ncnn Rfcn Raspberry Pi 64](https://github.com/Qengineering/Rfcn_ncnn)
+    + [ncnn Faster RCNN Raspberry Pi 64](https://github.com/Qengineering/Faster_RCNN_ncnn)
     + [OpenCV MobileNetV1_SSD Caffe Raspberry Pi 64](https://github.com/Qengineering/MobileNetV1_SSD_OpenCV_Caffe)
     + [OpenCV MobileNetV1_SSD TensorFlow Raspberry Pi 64](https://github.com/Qengineering/MobileNet_SSD_OpenCV_TensorFlow)
   * Segmentation
@@ -36,7 +42,7 @@
     + [ncnn Raspberry Pi](https://github.com/Qengineering/Face-Recognition-Raspberry-Pi-64-bits)
     + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-Jetson-Nano)
     + Face recognition with mask
-      + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano
+      + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
 
 <!--
 - #### Wheels
