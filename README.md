@@ -56,6 +56,8 @@
     + [Examples Raspberry Pi 64](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
     + [Qt5 Raspberry Pi 64 + Jetson Nano](https://github.com/Qengineering/Qt5-OpenCV-Raspberry-Pi-Jetson-Nano)
     + [Blur detection Raspberry Pi 64 + Jetson Nano](https://github.com/Qengineering/Blur-detection-with-FFT-in-C)
+  * Caffe
+    + [cuDNN 8.0 + CUDA 10.3 WeiLui SSD Fork + Configuration files RPi, Jetson](https://github.com/Qengineering/caffe)
 
 <!--
 **Qengineering/Qengineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
