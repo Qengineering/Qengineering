@@ -43,14 +43,20 @@
     + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-Jetson-Nano)
     + Face recognition with mask
       + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
-
-<!--
 - #### Wheels
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-      + [Sub-sub-sub-heading](#sub-sub-heading-2)
+  * TensorFlow
+    + [Raspberry Pi 32](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
+    + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)
+    + [Jetson Nano](https://github.com/Qengineering/TensorFlow-JetsonNano)
+  * PaddlePaddle
+    + [Raspberry Pi 64](https://github.com/Qengineering/Paddle-Raspberry-Pi)
+    + [Jetson Nano](https://github.com/Qengineering/Paddle-Jetson-Nano)
+- ### Miscellaneous
+  * OpenCV
+    + [Examples Raspberry Pi 64](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
+    + [Qt5 Raspberry Pi 64 + Jetson Nano](https://github.com/Qengineering/Qt5-OpenCV-Raspberry-Pi-Jetson-Nano)
+    + [Blur detection Raspberry Pi 64 + Jetson Nano](https://github.com/Qengineering/Blur-detection-with-FFT-in-C)
 
--->
 <!--
 **Qengineering/Qengineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
