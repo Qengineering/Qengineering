@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- #### Deep Learning
+- ### Deep Learning
   * Classification
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_32-bits)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_64-bits)
@@ -43,7 +43,7 @@
     + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-Jetson-Nano)
     + Face recognition with mask
       + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
-- #### Wheels
+- ### Wheels
   * TensorFlow
     + [Raspberry Pi 32](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
     + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)
