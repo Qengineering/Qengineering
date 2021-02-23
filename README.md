@@ -33,7 +33,7 @@
     + [MNN Raspberry Pi](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/MNN)
     + [ncnn Raspberry Pi](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/ncnn)
     + [OpenCV Raspberry Pi](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/OpenCV)
-    + Face detection with landmarks
+    * Face detection with landmarks
       + [ncnn Raspberry Pi](https://github.com/Qengineering/Face-detection-Landmark-Raspberry-Pi-32-64-bits)
   * Face mask detection
     + [ncnn + Paddle Raspberry Pi](https://github.com/Qengineering/Face-Mask-Detection-Raspberry-Pi-64-bits)
@@ -43,7 +43,7 @@
   * Face recognition
     + [ncnn Raspberry Pi](https://github.com/Qengineering/Face-Recognition-Raspberry-Pi-64-bits)
     + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-Jetson-Nano)
-    + Face recognition with mask
+    * Face recognition with mask
       + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
 - ### Wheels
   * TensorFlow
