@@ -52,6 +52,7 @@
     + [Jetson Nano](https://github.com/Qengineering/TensorFlow-JetsonNano)
   * PyTorch
     + [Raspberry Pi 64](https://github.com/Qengineering/PyTorch-Raspberry-Pi-64-OS)
+    + [Jetson Nano](https://github.com/Qengineering/PyTorch-Jeston-Nano)
   * PaddlePaddle
     + [Raspberry Pi 64](https://github.com/Qengineering/Paddle-Raspberry-Pi)
     + [Jetson Nano](https://github.com/Qengineering/Paddle-Jetson-Nano)
