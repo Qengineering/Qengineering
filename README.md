@@ -52,6 +52,7 @@
     + [Jetson Nano](https://github.com/Qengineering/TensorFlow-JetsonNano)
   * TensorFlow Addons
     + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Addons-Raspberry-Pi_64-bit)
+    + [Jetson Nano](https://github.com/Qengineering/TensorFlow-Addons-Jetson-Nano)
   * PyTorch
     + [Raspberry Pi 64](https://github.com/Qengineering/PyTorch-Raspberry-Pi-64-OS)
     + [Jetson Nano](https://github.com/Qengineering/PyTorch-Jetson-Nano)
