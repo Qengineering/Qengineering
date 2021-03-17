@@ -68,7 +68,7 @@
     + [cuDNN 8.0 + CUDA 10.3 WeiLui SSD Fork + Configuration files RPi, Jetson](https://github.com/Qengineering/caffe)
 
 
-![output image]( https://qengineering.eu/images/SDcard16GB_small.jpg ) [A Raspberry Pi 4 64-bit OS image of several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)
+![output image]( https://qengineering.eu/images/SDcard16GB_tiny.jpg ) [A Raspberry Pi 4 64-bit OS image of several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)
 
 <!--
 **Qengineering/Qengineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
