@@ -17,6 +17,8 @@
     + [ncnn YoloV3 Raspberry Pi 64](https://github.com/Qengineering/MobileNetV2_YOLOV3_ncnn)
     + [ncnn YoloV4 Raspberry Pi 64](https://github.com/Qengineering/YoloV4-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV5 Raspberry Pi 64](https://github.com/Qengineering/YoloV5-ncnn-Raspberry-Pi-4)
+    + [ncnn YoloV2 Jetson Nano](https://github.com/Qengineering/YoloV2-ncnn-Jetson-Nano)
+    + [ncnn YoloV3 Jetson Nano](https://github.com/Qengineering/YoloV3-ncnn-Jetson-Nano)
     + [ncnn YoloV4 Jetson Nano](https://github.com/Qengineering/YoloV4-ncnn-Jetson-Nano)
     + [ncnn YoloV5 Jetson Nano](https://github.com/Qengineering/YoloV5-ncnn-Jetson-Nano)
     + [ncnn Rfcn Raspberry Pi 64](https://github.com/Qengineering/Rfcn_ncnn)
