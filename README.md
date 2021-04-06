@@ -15,6 +15,7 @@
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_SSD_Jetson-Nano)
     + [ncnn PeeleeNet Raspberry Pi 64](https://github.com/Qengineering/PeleeNet_SSD)
     + [ncnn NanoDet Raspberry Pi 64](https://github.com/Qengineering/NanoDet-ncnn-Raspberry-Pi-4)
+    + [ncnn NanoDet Jetson Nano](https://github.com/Qengineering/NanoDet-ncnn-Jetson-Nano)
     + [ncnn YoloV2 Raspberry Pi 64](https://github.com/Qengineering/YoloV2-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV3 Raspberry Pi 64](https://github.com/Qengineering/YoloV3-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV4 Raspberry Pi 64](https://github.com/Qengineering/YoloV4-ncnn-Raspberry-Pi-4)
