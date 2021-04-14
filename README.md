@@ -38,11 +38,12 @@
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_64-bits)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Pose_Jetson-Nano)
   * Face detection
-    + [MNN Raspberry Pi](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/MNN)
-    + [ncnn Raspberry Pi](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/ncnn)
-    + [OpenCV Raspberry Pi](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/OpenCV)
+    + [MNN Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/MNN)
+    + [ncnn Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/ncnn)
+    + [OpenCV Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/OpenCV)
+    + [ncnn LFFD Raspberry Pi 64](https://github.com/Qengineering/LFFD-ncnn-Raspberry-Pi-4)
     * Face detection with landmarks
-      + [ncnn Raspberry Pi](https://github.com/Qengineering/Face-detection-Landmark-Raspberry-Pi-32-64-bits)
+      + [ncnn Ultra Raspberry Pi](https://github.com/Qengineering/Face-detection-Landmark-Raspberry-Pi-32-64-bits)
   * Face mask detection
     + [ncnn + Paddle Raspberry Pi](https://github.com/Qengineering/Face-Mask-Detection-Raspberry-Pi-64-bits)
     + [ncnn + Paddle Jetson Nano](https://github.com/Qengineering/Face-Mask-Detection-Jetson-Nano)
