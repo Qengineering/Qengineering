@@ -44,6 +44,7 @@
     + [ncnn LFFD Raspberry Pi 64](https://github.com/Qengineering/LFFD-ncnn-Raspberry-Pi-4)
     + [MNN LFFD Raspberry Pi 64](https://github.com/Qengineering/LFFD-MNN-Raspberry-Pi-4)
     + [ncnn LFFD Raspberry Jetson Nano](https://github.com/Qengineering/LFFD-ncnn-Jetson-Nano)
+    + [MNN LFFD Raspberry Jetson Nano](https://github.com/Qengineering/LFFD-MNN-Jetson-Nano)
     * Face detection with landmarks
       + [ncnn Ultra Raspberry Pi](https://github.com/Qengineering/Face-detection-Landmark-Raspberry-Pi-32-64-bits)
   * Face mask detection
