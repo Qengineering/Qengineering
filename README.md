@@ -57,6 +57,8 @@
     + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-Jetson-Nano)
     * Face recognition with mask
       + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
+  * Age Gender estimation
+    + [OpenCV Raspberry Pi](https://github.com/Qengineering/Age-Gender-OpenCV-Raspberry-Pi-4)
 - ### Wheels
   * TensorFlow
     + [Raspberry Pi 32](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
