@@ -78,6 +78,7 @@
 - ### Miscellaneous
   * OpenCV
     + [Examples Raspberry Pi 64](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
+    + [OpenCV + GStreamer 1.18.4](https://github.com/Qengineering/GStreamer-1.18.4-RPi_32-bits)
     + [Qt5 Raspberry Pi 64 + Jetson Nano](https://github.com/Qengineering/Qt5-OpenCV-Raspberry-Pi-Jetson-Nano)
     + [Blur detection Raspberry Pi 64 + Jetson Nano](https://github.com/Qengineering/Blur-detection-with-FFT-in-C)
   * Caffe
