@@ -75,6 +75,8 @@
   * PaddlePaddle
     + [Raspberry Pi 64](https://github.com/Qengineering/Paddle-Raspberry-Pi)
     + [Jetson Nano](https://github.com/Qengineering/Paddle-Jetson-Nano)
+  * OpenCV
+    + [Jetson Nano](https://github.com/Qengineering/Install-OpenCV-Jetson-Nano)  
 - ### Miscellaneous
   * OpenCV
     + [Examples Raspberry Pi 64](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
