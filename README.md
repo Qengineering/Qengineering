@@ -76,6 +76,7 @@
     + [Raspberry Pi 64](https://github.com/Qengineering/Paddle-Raspberry-Pi)
     + [Jetson Nano](https://github.com/Qengineering/Paddle-Jetson-Nano)
   * OpenCV
+    + [Raspberry Pi 32](https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-32-bits)
     + [Raspberry Pi 64](https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-64-bits)  
     + [Jetson Nano](https://github.com/Qengineering/Install-OpenCV-Jetson-Nano)
 - ### Miscellaneous
