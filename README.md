@@ -4,6 +4,7 @@
 
 - ### Deep Learning
   * Classification
+    + [TensorFlow Lite Raspberry Pi zero](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_zero)
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_32-bits)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_64-bits)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Classification_Jetson-Nano)
