@@ -87,6 +87,8 @@
     + [GStreamer 1.18.4 + OpenCV Raspberry Pi 64](https://github.com/Qengineering/GStreamer-1.18.4-RPi_64-bits)
     + [Qt5 Raspberry Pi 64 + Jetson Nano](https://github.com/Qengineering/Qt5-OpenCV-Raspberry-Pi-Jetson-Nano)
     + [Blur detection Raspberry Pi 64 + Jetson Nano](https://github.com/Qengineering/Blur-detection-with-FFT-in-C)
+  * Sensors
+    + [DHT22 sensor](https://github.com/Qengineering/DHT22-Raspberry-Pi)
   * Caffe
     + [cuDNN 8.0 + CUDA 10.3 WeiLui SSD Fork + Configuration files RPi, Jetson](https://github.com/Qengineering/caffe)
 
