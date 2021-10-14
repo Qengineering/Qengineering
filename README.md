@@ -96,7 +96,10 @@
 
 ![output image]( https://qengineering.eu/images/SDcard16GB_small.jpg ) [A Raspberry Pi 4 64-bit OS image of several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)<br/><br/>
 ![output image]( https://qengineering.eu/images/SDcard32GB_smallJetson.jpg ) [A Jetson Nano image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-image)<br/><br/>
-![output image]( https://qengineering.eu/images/SDcard32GBJetsonUB20small.jpg ) [A Jetson Nano - **Ubuntu 20.04** image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)
+![output image]( https://qengineering.eu/images/SDcard32GBJetsonUB20small.jpg ) [A Jetson Nano - **Ubuntu 20.04** image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)<br/><br/>
+
+![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
+
 <!--
 **Qengineering/Qengineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
