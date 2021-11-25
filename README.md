@@ -83,8 +83,9 @@
 - ### Miscellaneous
   * OpenCV
     + [Examples Raspberry Pi 64](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
-    + [GStreamer 1.18.4 + OpenCV Raspberry Pi 32](https://github.com/Qengineering/GStreamer-1.18.4-RPi_32-bits)
-    + [GStreamer 1.18.4 + OpenCV Raspberry Pi 64](https://github.com/Qengineering/GStreamer-1.18.4-RPi_64-bits)
+    + [GStreamer 1.18.4 + OpenCV Raspberry Pi 32 Buster](https://github.com/Qengineering/GStreamer-1.18.4-RPi_32-bits)
+    + [GStreamer 1.18.4 + OpenCV Raspberry Pi 64 Buster](https://github.com/Qengineering/GStreamer-1.18.4-RPi_64-bits)
+    + [Libcamera + OpenCV on Raspberry Pi 64 Bullseye](https://github.com/Qengineering/Libcamera-OpenCV-RPi-Bullseye-64OS)
     + [Qt5 RPi 64 + Jetson Nano](https://github.com/Qengineering/Qt5-OpenCV-Raspberry-Pi-Jetson-Nano)
     + [Blur detection](https://github.com/Qengineering/Blur-detection-with-FFT-in-C)
     + [Fast background substraction](https://github.com/Qengineering/Fast-Background-Substraction)
