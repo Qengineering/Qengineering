@@ -104,6 +104,8 @@
 
 ![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
 
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
 <!--
 **Qengineering/Qengineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
