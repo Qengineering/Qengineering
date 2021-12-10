@@ -44,6 +44,7 @@
     + [OpenCV Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/OpenCV)
     + [ncnn LFFD Raspberry Pi 64](https://github.com/Qengineering/LFFD-ncnn-Raspberry-Pi-4)
     + [MNN LFFD Raspberry Pi 64](https://github.com/Qengineering/LFFD-MNN-Raspberry-Pi-4)
+    + [ncnn CenterFace Raspberry Pi 64](https://github.com/Qengineering/CenterFace-ncnn-Raspberry-Pi-4)
     + [ncnn LFFD Raspberry Jetson Nano](https://github.com/Qengineering/LFFD-ncnn-Jetson-Nano)
     + [MNN LFFD Raspberry Jetson Nano](https://github.com/Qengineering/LFFD-MNN-Jetson-Nano)
     * Face detection with landmarks
