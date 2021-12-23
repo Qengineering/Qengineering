@@ -88,6 +88,7 @@
     + [Jetson Nano](https://github.com/Qengineering/Install-OpenCV-Jetson-Nano)
 - ### Miscellaneous
   * OpenCV
+    + [libcamera C++ wrapper Bullseye 64](https://github.com/Qengineering/LCCV)
     * GStreamer
       * Buster
         + [GStreamer 1.18.4 + OpenCV Raspberry Pi 32](https://github.com/Qengineering/GStreamer-1.18.4-RPi_32-bits)
