@@ -70,6 +70,8 @@
     + [realsr ncnn Jetson Nano](https://github.com/Qengineering/realsr-ncnn-Jetson-Nano)
   * Age Gender estimation
     + [OpenCV Raspberry Pi](https://github.com/Qengineering/Age-Gender-OpenCV-Raspberry-Pi-4)
+  * QR and bar code
+    + [ZBar Raspberry Pi](https://github.com/Qengineering/QR_scanner_Raspberry_Pi)
 - ### Wheels
   * TensorFlow
     + [Raspberry Pi 32](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
