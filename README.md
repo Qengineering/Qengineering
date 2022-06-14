@@ -24,6 +24,7 @@
     + [ncnn YoloX Raspberry Pi 64](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4)
     + [ncnn YoloFastestV2 Raspberry Pi 64](https://github.com/Qengineering/YoloFastestV2-ncnn-Raspberry-Pi-4)
     + [ncnn NanoDet Jetson Nano](https://github.com/Qengineering/NanoDet-ncnn-Jetson-Nano)
+    + [ncnn NanoDet Plus Jetson Nano](https://github.com/Qengineering/NanoDetPlus-ncnn-Jetson-Nano)
     + [ncnn YoloV2 Jetson Nano](https://github.com/Qengineering/YoloV2-ncnn-Jetson-Nano)
     + [ncnn YoloV3 Jetson Nano](https://github.com/Qengineering/YoloV3-ncnn-Jetson-Nano)
     + [ncnn YoloV4 Jetson Nano](https://github.com/Qengineering/YoloV4-ncnn-Jetson-Nano)
