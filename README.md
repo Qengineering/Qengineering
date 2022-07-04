@@ -38,6 +38,7 @@
   * Tracking
     + [ncnn YoloX + Byte Tracking Rpi 64](https://github.com/Qengineering/YoloX-Tracking-ncnn-RPi_64-bit)
     + [ncnn NanoDet + Byte Tracking Rpi 64](https://github.com/Qengineering/NanoDet-Tracking-ncnn-RPi_64-bit)
+    + [Tensorflow Lite + Byte Tracking Rpi 64](https://github.com/Qengineering/TensorFlow_Lite-Tracking-RPi_64-bit)
   * Segmentation
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_32-bit)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_64-bit)
