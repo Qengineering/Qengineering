@@ -62,6 +62,8 @@
       + [ncnn Ultra Raspberry Pi](https://github.com/Qengineering/Face-detection-Landmark-Raspberry-Pi-32-64-bits)
   * Head pose estimation
     + [ncnn Ultra Raspberry Pi 64](https://github.com/Qengineering/Head-Pose-ncnn-Raspberry-Pi-4)
+  * Hand pose estimation
+    + [ncnn NanoDet Raspberry Pi 64](https://github.com/Qengineering/Hand-Pose-ncnn-Raspberry-Pi-4)
   * Face mask detection
     + [ncnn + Paddle Raspberry Pi](https://github.com/Qengineering/Face-Mask-Detection-Raspberry-Pi-64-bits)
     + [ncnn + Paddle Jetson Nano](https://github.com/Qengineering/Face-Mask-Detection-Jetson-Nano)
