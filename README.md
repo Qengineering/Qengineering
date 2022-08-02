@@ -21,6 +21,7 @@
     + [ncnn YoloV3 Raspberry Pi 64](https://github.com/Qengineering/YoloV3-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV4 Raspberry Pi 64](https://github.com/Qengineering/YoloV4-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV5 Raspberry Pi 64](https://github.com/Qengineering/YoloV5-ncnn-Raspberry-Pi-4)
+    + [ncnn YoloV6 Raspberry Pi 64](https://github.com/Qengineering/YoloV6-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV7 Raspberry Pi 64](https://github.com/Qengineering/YoloV7-ncnn-Raspberry-Pi-4)
     + [ncnn YoloX Raspberry Pi 64](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4)
     + [ncnn YoloFastestV2 Raspberry Pi 64](https://github.com/Qengineering/YoloFastestV2-ncnn-Raspberry-Pi-4)
