@@ -129,7 +129,7 @@
 ![output image]( https://qengineering.eu/images/SDcard32GBJetsonUB20small.jpg ) [A Jetson Nano - **Ubuntu 20.04** image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)<br/><br/>
 - ### Applications
 ![output image]( https://qengineering.eu/images/SDcardMotion.jpg ) [RPi z2, 3 or 4 motion surveillance camera with email notification and gdrive storage](https://github.com/Qengineering/RPiMotionCam)<br/><br/>
-![output image]( https://qengineering.eu/images/SDcardDNN.jpg ) [YoloCam, an RPi z2, 3 or 4 AI-powered camera with email notification, gdrive storage and GPIO output](https://github.com/Qengineering/YoloCam)<br/><br/>
+![output image]( https://qengineering.eu/images/SDcardDNN.jpg ) [**YoloCam**, an RPi z2, 3 or 4 AI-powered camera with email notification, gdrive storage and GPIO output](https://github.com/Qengineering/YoloCam)<br/><br/>
 ![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
 
 [![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
