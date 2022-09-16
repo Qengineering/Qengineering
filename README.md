@@ -1,7 +1,7 @@
-![output image]( https://qengineering.eu/images/GitHubLogo.webp )
+![output image]( https://qengineering.eu/github/GitHubLogo.webp )
 
 ---------
-![output image]( https://qengineering.eu/images/YoloCamGitHubSocialSmall.jpg ) &emsp; **[YoloCam](https://github.com/Qengineering/YoloCam)**
+![output image]( https://qengineering.eu/github/YoloCamGitHubSocialSmall.jpg ) &emsp; **[YoloCam](https://github.com/Qengineering/YoloCam)**
 
 ---------
 
@@ -127,17 +127,17 @@
   * Caffe
     + [cuDNN 8.0 + CUDA 10.3 WeiLui SSD Fork + Configuration files RPi, Jetson](https://github.com/Qengineering/caffe)
 - ### Images
-![output image]( https://qengineering.eu/images/SDcard16GB_small.jpg ) [A Raspberry Pi 4 64-bit OS image of several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)<br/><br/>
-![output image]( https://qengineering.eu/images/SDcard16GBZero2small.jpg ) [A Raspberry Pi **Zero 2 W 64-bit** OS image with OpenCV, TensorFlow Lite and ncnn](https://github.com/Qengineering/RPi_64-bit_Zero-2-image)<br/><br/>
-![output image]( https://qengineering.eu/images/SDcard16GB_banana.jpg ) [A Banana Pi M2 Zero image **with OV5640** camera and OpenCV](https://github.com/Qengineering/BananaPi-M2-Zero-OV5640)<br/><br/>
-![output image]( https://qengineering.eu/images/SDcard32GB_smallJetson.jpg ) [A Jetson Nano image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-image)<br/><br/>
-![output image]( https://qengineering.eu/images/SDcard32GBJetsonUB20small.jpg ) [A Jetson Nano - **Ubuntu 20.04** image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcard16GB_small.jpg ) [A Raspberry Pi 4 64-bit OS image of several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcard16GBZero2small.jpg ) [A Raspberry Pi **Zero 2 W 64-bit** OS image with OpenCV, TensorFlow Lite and ncnn](https://github.com/Qengineering/RPi_64-bit_Zero-2-image)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcard16GB_banana.jpg ) [A Banana Pi M2 Zero image **with OV5640** camera and OpenCV](https://github.com/Qengineering/BananaPi-M2-Zero-OV5640)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcard32GB_smallJetson.jpg ) [A Jetson Nano image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-image)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcard32GBJetsonUB20small.jpg ) [A Jetson Nano - **Ubuntu 20.04** image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)<br/><br/>
 - ### Applications
-![output image]( https://qengineering.eu/images/SDcardMotion.jpg ) [RPi z2, 3 or 4 motion surveillance camera with email notification and gdrive storage](https://github.com/Qengineering/RPiMotionCam)<br/><br/>
-![output image]( https://qengineering.eu/images/SDcardDNN.jpg ) [**YoloCam**, the cheapest AI-powered camera with email notification, gdrive storage and GPIO output](https://github.com/Qengineering/YoloCam)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcardMotion.jpg ) [RPi z2, 3 or 4 motion surveillance camera with email notification and gdrive storage](https://github.com/Qengineering/RPiMotionCam)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcardDNN.jpg ) [**YoloCam**, the cheapest AI-powered camera with email notification, gdrive storage and GPIO output](https://github.com/Qengineering/YoloCam)<br/><br/>
 ![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
 
-[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+[![paypal](https://qengineering.eu/github/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
 
 <!--
 **Qengineering/Qengineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
