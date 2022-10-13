@@ -70,10 +70,6 @@
     + [ncnn CenterFace Jetson Nano](https://github.com/Qengineering/CenterFace-ncnn-Jetson-Nano)
     * Face detection with landmarks
       + [ncnn Ultra Raspberry Pi](https://github.com/Qengineering/Face-detection-Landmark-Raspberry-Pi-32-64-bits)
-  * Head pose estimation
-    + [ncnn Ultra Raspberry Pi 64](https://github.com/Qengineering/Head-Pose-ncnn-Raspberry-Pi-4)
-  * Hand pose estimation
-    + [ncnn NanoDet Raspberry Pi 64](https://github.com/Qengineering/Hand-Pose-ncnn-Raspberry-Pi-4)
   * Face mask detection
     + [ncnn + Paddle Raspberry Pi](https://github.com/Qengineering/Face-Mask-Detection-Raspberry-Pi-64-bits)
     + [ncnn + Paddle Jetson Nano](https://github.com/Qengineering/Face-Mask-Detection-Jetson-Nano)
@@ -84,10 +80,18 @@
     + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-Jetson-Nano)
     * Face recognition with mask
       + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
+  * OCR
+    + [OpenCV detect text in image RPi](https://github.com/Qengineering/OpenCV_OCR_Detect_Text)
+    + [OpenCV recognize text with deep learning RPi](https://github.com/Qengineering/OpenCV_OCR_DNN)
+    + [OpenCV recognize text with tesseract RPi](https://github.com/Qengineering/OpenCV_OCR_Tesseract)
   * Super resolution
     + [realsr ncnn Jetson Nano](https://github.com/Qengineering/realsr-ncnn-Jetson-Nano)
   * Age Gender estimation
     + [OpenCV Raspberry Pi](https://github.com/Qengineering/Age-Gender-OpenCV-Raspberry-Pi-4)
+  * Head pose estimation
+    + [ncnn Ultra Raspberry Pi 64](https://github.com/Qengineering/Head-Pose-ncnn-Raspberry-Pi-4)
+  * Hand pose estimation
+    + [ncnn NanoDet Raspberry Pi 64](https://github.com/Qengineering/Hand-Pose-ncnn-Raspberry-Pi-4)
   * QR and bar code
     + [ZBar Raspberry Pi](https://github.com/Qengineering/QR_scanner_Raspberry_Pi)
 - ### Wheels
