@@ -1,8 +1,9 @@
 ![output image]( https://qengineering.eu/github/GitHubLogo.webp )
 
 ---------
-![output image]( https://qengineering.eu/github/YoloCamGitHubSocialSmall.jpg )<br>
-**[YoloCam](https://github.com/Qengineering/YoloCam)** A Raspberry Pi 4, 3 or Zero 2, with (moving) object recognition, browser-based live streaming, email, cloud storage and GPIO event triggers
+## **[YoloCam](https://github.com/Qengineering/YoloCam)**
+![output image]( https://qengineering.eu/github/YoloCamGitHubSocialSmall.jpg ) ![output image]( https://qengineering.eu/github/YoloCamGitHubSocialSmallScreen.jpg )<br>
+A Raspberry Pi 4, 3 or Zero 2, with (moving) object recognition, browser-based live streaming, email, cloud storage and GPIO event triggers
 
 ---------
 
