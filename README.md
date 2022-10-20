@@ -101,6 +101,9 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
     + [Raspberry Pi 32](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
     + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)
     + [Jetson Nano](https://github.com/Qengineering/TensorFlow-JetsonNano)
+  * TensorFlow Lite
+    + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Lite-Raspberry-Pi_64-bit)
+    + [Jetson Nano](https://github.com/Qengineering/TensorFlow-Lite-Raspberry-Pi_64-bit)
   * TensorFlow Addons
     + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Addons-Raspberry-Pi_64-bit)
     + [Jetson Nano](https://github.com/Qengineering/TensorFlow-Addons-Jetson-Nano)
