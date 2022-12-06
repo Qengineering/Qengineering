@@ -44,6 +44,7 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
     + [ncnn YoloFastetsV2 Jetson Nano](https://github.com/Qengineering/YoloFastest-ncnn-Jetson-Nano)
     + [ncnn Rfcn Raspberry Pi 64](https://github.com/Qengineering/Rfcn_ncnn)
     + [ncnn Faster RCNN Raspberry Pi 64](https://github.com/Qengineering/Faster_RCNN_ncnn)
+    + [Darknet YoloV4 Jetson Nano](https://github.com/Qengineering/YoloV4-Darknet-Jetson-Nano)
     + [OpenCV MobileNetV1_SSD Caffe Raspberry Pi 64](https://github.com/Qengineering/MobileNetV1_SSD_OpenCV_Caffe)
     + [OpenCV MobileNetV1_SSD TensorFlow Raspberry Pi 64](https://github.com/Qengineering/MobileNet_SSD_OpenCV_TensorFlow)
   * Tracking
