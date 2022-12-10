@@ -130,7 +130,7 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
       * Bullseye 
         + [Libcamera + OpenCV on Raspberry Pi 32](https://github.com/Qengineering/Libcamera-OpenCV-RPi-Bullseye-32OS)
         + [Libcamera + OpenCV on Raspberry Pi 64](https://github.com/Qengineering/Libcamera-OpenCV-RPi-Bullseye-64OS)
-    + [Receiving RTSP with FFmpeg in OpenCV](https://gist.github.com/Qengineering/a7007bf178d1f0d39ee492fe155d5966)
+    + [RTSP with FFmpeg in OpenCV](https://gist.github.com/Qengineering/a7007bf178d1f0d39ee492fe155d5966)
     + [Examples Raspberry Pi 64](https://github.com/Qengineering/OpenCV-Livecam-Raspberry-Pi)
     + [Qt5 RPi 64 + Jetson Nano](https://github.com/Qengineering/Qt5-OpenCV-Raspberry-Pi-Jetson-Nano)
     + [Blur detection](https://github.com/Qengineering/Blur-detection-with-FFT-in-C)
