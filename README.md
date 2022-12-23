@@ -61,6 +61,7 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_32-bits)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_64-bits)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Pose_Jetson-Nano)
+    + [ncnn Raspberry Pi 64](https://github.com/Qengineering/ncnn_Pose_RPi_64-bits)   
   * Face detection
     + [MNN Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/MNN)
     + [ncnn Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/ncnn)
