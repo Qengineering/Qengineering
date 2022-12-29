@@ -56,6 +56,7 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_32-bit)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_64-bit)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_Jetson-Nano)
+    + [ncnn YoloV5 segmentation Rpi 64](https://github.com/Qengineering/YoloV5-segmentation-ncnn-RPi4)
     + [ncnn Yolact Raspberry Pi](https://github.com/Qengineering/Yolact-ncnn-Raspberry-Pi-4)
   * Pose
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_32-bits)
