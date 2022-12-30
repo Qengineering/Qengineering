@@ -70,9 +70,10 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
     + [ncnn LFFD Raspberry Pi 64](https://github.com/Qengineering/LFFD-ncnn-Raspberry-Pi-4)
     + [MNN LFFD Raspberry Pi 64](https://github.com/Qengineering/LFFD-MNN-Raspberry-Pi-4)
     + [ncnn CenterFace Raspberry Pi 64](https://github.com/Qengineering/CenterFace-ncnn-Raspberry-Pi-4)
-    + [ncnn LFFD Raspberry Jetson Nano](https://github.com/Qengineering/LFFD-ncnn-Jetson-Nano)
-    + [MNN LFFD Raspberry Jetson Nano](https://github.com/Qengineering/LFFD-MNN-Jetson-Nano)
+    + [ncnn LFFD Jetson Nano](https://github.com/Qengineering/LFFD-ncnn-Jetson-Nano)
+    + [MNN LFFD Jetson Nano](https://github.com/Qengineering/LFFD-MNN-Jetson-Nano)
     + [ncnn CenterFace Jetson Nano](https://github.com/Qengineering/CenterFace-ncnn-Jetson-Nano)
+    + [ncnn YoloV5 face Raspberry Pi 64](https://github.com/Qengineering/YoloV5-face-ncnn-RPi4)
     * Face detection with landmarks
       + [ncnn Ultra Raspberry Pi](https://github.com/Qengineering/Face-detection-Landmark-Raspberry-Pi-32-64-bits)
   * Face mask detection
