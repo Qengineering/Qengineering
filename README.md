@@ -91,6 +91,7 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
     + [OpenCV recognize text with deep learning RPi](https://github.com/Qengineering/OpenCV_OCR_DNN)
     + [OpenCV recognize text with tesseract RPi](https://github.com/Qengineering/OpenCV_OCR_Tesseract)
   * Super resolution
+    + [real ESRGAN ncnn Raspberry Pi 4 ](https://github.com/Qengineering/Real-ESRGAN-ncnn-Raspberry-Pi-4)
     + [realsr ncnn Jetson Nano](https://github.com/Qengineering/realsr-ncnn-Jetson-Nano)
   * Age Gender estimation
     + [OpenCV Raspberry Pi](https://github.com/Qengineering/Age-Gender-OpenCV-Raspberry-Pi-4)
