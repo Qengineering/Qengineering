@@ -93,6 +93,8 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
   * Super resolution
     + [real ESRGAN ncnn Raspberry Pi 4 ](https://github.com/Qengineering/Real-ESRGAN-ncnn-Raspberry-Pi-4)
     + [realsr ncnn Jetson Nano](https://github.com/Qengineering/realsr-ncnn-Jetson-Nano)
+  * Face reconstruction
+    + [GFPGAN ncnn Raspberry Pi 4 ](https://github.com/Qengineering/GFPGAN-ncnn-Raspberry-Pi-4)
   * Age Gender estimation
     + [OpenCV Raspberry Pi](https://github.com/Qengineering/Age-Gender-OpenCV-Raspberry-Pi-4)
   * Head pose estimation
