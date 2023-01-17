@@ -155,7 +155,7 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
 - ### Applications
 ![output image]( https://qengineering.eu/github/SDcardMotion.jpg ) [RPi z2, 3 or 4 motion surveillance camera with email notification and gdrive storage](https://github.com/Qengineering/RPiMotionCam)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcardDNN.jpg ) [**YoloCam**, the cheapest AI-powered camera with email notification, gdrive storage and GPIO output](https://github.com/Qengineering/YoloCam)<br/><br/>
-![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
+![Qengineering's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
 
 [![paypal](https://qengineering.eu/github/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
 
