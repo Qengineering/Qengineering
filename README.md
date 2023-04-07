@@ -88,6 +88,8 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
     * Face recognition with mask
       + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
   * OCR
+    + [PaddleOCR-Lite License plate Rpi](https://github.com/Qengineering/PaddleOCR-Lite-License)
+    + [PaddleOCR-Lite Document scanner Rpi](https://github.com/Qengineering/PaddleOCR-Lite-Document)
     + [OpenCV detect text in image RPi](https://github.com/Qengineering/OpenCV_OCR_Detect_Text)
     + [OpenCV recognize text with deep learning RPi](https://github.com/Qengineering/OpenCV_OCR_DNN)
     + [OpenCV recognize text with tesseract RPi](https://github.com/Qengineering/OpenCV_OCR_Tesseract)
