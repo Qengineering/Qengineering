@@ -150,7 +150,8 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
   * Caffe
     + [cuDNN 8.0 + CUDA 10.3 WeiLui SSD Fork + Configuration files RPi, Jetson](https://github.com/Qengineering/caffe)
 - ### Images
-![output image]( https://qengineering.eu/github/SDcard16GB_small.jpg ) [A Raspberry Pi 4 64-bit OS image of several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcard32GB_small.jpg ) [A Raspberry Pi 4 Bullseye 64-bit OS with several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-Bullseye-DNN-image)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcard16GB_small.jpg ) [A Raspberry Pi 4 Buster 64-bit OS with several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard16GBZero2small.jpg ) [A Raspberry Pi **Zero 2 W 64-bit** OS image with OpenCV, TensorFlow Lite and ncnn](https://github.com/Qengineering/RPi_64-bit_Zero-2-image)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard16GB_banana.jpg ) [A Banana Pi M2 Zero image **with OV5640** camera and OpenCV](https://github.com/Qengineering/BananaPi-M2-Zero-OV5640)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard32GB_RockPi5.jpg ) [A Rock **5** with OpenCV, TNN, ncnn and **NPU**](https://github.com/Qengineering/Rock-5-image)<br><br>
