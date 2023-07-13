@@ -125,6 +125,8 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition
   * PaddlePaddle
     + [Raspberry Pi 64](https://github.com/Qengineering/Paddle-Raspberry-Pi)
     + [Jetson Nano](https://github.com/Qengineering/Paddle-Jetson-Nano)
+  * TensorRT
+    + [Jetson Nano Ubuntu 20.04](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)
   * OpenCV
     + [Raspberry Pi 32](https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-32-bits)
     + [Raspberry Pi 64](https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-64-bits)  
