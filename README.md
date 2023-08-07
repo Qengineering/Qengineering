@@ -3,7 +3,10 @@
 ---------
 ## **[YoloCam](https://github.com/Qengineering/YoloCam)**
 ![output image]( https://qengineering.eu/github/YoloCamGitHubSocialSmall.jpg ) ![output image]( https://qengineering.eu/github/YoloCamGitHubSocialSmallScreen.jpg )<br>
-A Raspberry Pi 4, 3 or Zero 2, with stand-alone deep learning object recognition, browser-based live streaming, email, cloud storage, GPIO and URL event triggers. YoloCam supports RaspiCam and IP cameras.
+A Raspberry Pi 4, 3 or Zero 2, with stand-alone AI object recognition, browser-based live streaming, email, cloud storage, GPIO and URL event triggers.<br>
+#### **[YoloIP](https://github.com/Qengineering/YoloIP)** 
+![output image]( https://qengineering.eu/github/YoloIPoverviewSmall.webp )<br>
+A Raspberry Pi 4, with stand-alone AI machine, supporting IP surveillance cameras.
 
 ---------
 
