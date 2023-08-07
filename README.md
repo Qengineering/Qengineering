@@ -6,7 +6,7 @@
 A Raspberry Pi 4, 3 or Zero 2, with stand-alone AI object recognition, browser-based live streaming, email, cloud storage, GPIO and URL event triggers.<br>
 #### **[YoloIP](https://github.com/Qengineering/YoloIP)** 
 ![output image]( https://qengineering.eu/github/YoloIPoverviewSmall.webp )<br>
-A Raspberry Pi 4, with stand-alone AI, supporting IP surveillance cameras.
+A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras.
 
 ---------
 
@@ -165,7 +165,7 @@ A Raspberry Pi 4, with stand-alone AI, supporting IP surveillance cameras.
 - ### Applications
 ![output image]( https://qengineering.eu/github/SDcardMotion.jpg ) [RPi z2, 3 or 4 motion surveillance camera with email notification and gdrive storage](https://github.com/Qengineering/RPiMotionCam)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcardDNN.jpg ) [**YoloCam**, the cheapest AI-powered camera with email notification, gdrive storage and GPIO output](https://github.com/Qengineering/YoloCam)<br/><br/>
-![output image]( https://qengineering.eu/github/SDcardYoloIP.jpg ) [**YoloIP**, the cheapest AI-powered machine, supporting IP surveillance cameras](https://github.com/Qengineering/YoloIP)<br/><br/>
+![output image]( https://qengineering.eu/github/SDcardYoloIP.jpg ) [**YoloIP**, the cheapest AI-powered machine, supports multiple IP surveillance cameras](https://github.com/Qengineering/YoloIP)<br/><br/>
 ![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
 
 <!--
