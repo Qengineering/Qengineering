@@ -159,7 +159,8 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
 ![output image]( https://qengineering.eu/github/SDcard16GB_small.jpg ) [A Raspberry Pi 4 Buster 64-bit OS with several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard16GBZero2small.jpg ) [A Raspberry Pi **Zero 2 W 64-bit** OS image with OpenCV, TensorFlow Lite and ncnn](https://github.com/Qengineering/RPi_64-bit_Zero-2-image)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard16GB_banana.jpg ) [A Banana Pi M2 Zero image **with OV5640** camera and OpenCV](https://github.com/Qengineering/BananaPi-M2-Zero-OV5640)<br/><br/>
-![output image]( https://qengineering.eu/github/SDcard32GB_RockPi5.jpg ) [A Rock **5** with OpenCV, TNN, ncnn and **NPU**](https://github.com/Qengineering/Rock-5-image)<br><br>
+![output image]( https://qengineering.eu/github/SDcard32GB_RockPi5.jpg ) [A Rock 5 with OpenCV, TNN, ncnn and **NPU**](https://github.com/Qengineering/Rock-5-image)<br><br>
+![output image]( https://qengineering.eu/github/RockPi5_Ubuntu_22.jpg ) [A Rock 5 with **Ubuntu 22.04**, OpenCV, ncnn and **NPU**](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)<br><br>
 ![output image]( https://qengineering.eu/github/SDcard32GB_smallJetson.jpg ) [A Jetson Nano image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-image)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard32GBJetsonUB20small.jpg ) [A Jetson Nano - **Ubuntu 20.04** image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)<br/><br/>
 - ### Applications
