@@ -36,6 +36,7 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [ncnn YoloV8 Raspberry Pi 64](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4)
     + [ncnn YoloX Raspberry Pi 64](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4)
     + [ncnn YoloFastestV2 Raspberry Pi 64](https://github.com/Qengineering/YoloFastestV2-ncnn-Raspberry-Pi-4)
+    + [NPU YoloV5 Rock 5](https://github.com/Qengineering/YoloV5-NPU-Rock-5)
     + [ncnn NanoDet Jetson Nano](https://github.com/Qengineering/NanoDet-ncnn-Jetson-Nano)
     + [ncnn NanoDet Plus Jetson Nano](https://github.com/Qengineering/NanoDetPlus-ncnn-Jetson-Nano)
     + [ncnn YoloV2 Jetson Nano](https://github.com/Qengineering/YoloV2-ncnn-Jetson-Nano)
