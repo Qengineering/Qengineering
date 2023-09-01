@@ -155,6 +155,8 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [DHT22 sensor](https://github.com/Qengineering/DHT22-Raspberry-Pi)
   * Caffe
     + [cuDNN 8.0 + CUDA 10.3 WeiLui SSD Fork + Configuration files RPi, Jetson](https://github.com/Qengineering/caffe)
+  * NPU
+    + [RKNN model zoo](https://github.com/Qengineering/rknn_model_zoo)
 - ### Images
 ![output image]( https://qengineering.eu/github/SDcard32GB_small.jpg ) [A Raspberry Pi 4 **Bullseye** 64-bit OS with several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-Bullseye-DNN-image)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard16GB_small.jpg ) [A Raspberry Pi 4 Buster 64-bit OS with several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-image)<br/><br/>
