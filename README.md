@@ -1,6 +1,7 @@
 ![output image]( https://qengineering.eu/github/GitHubLogo.jpg )
 
 ---------
+
 ## **[YoloCam](https://github.com/Qengineering/YoloCam)**
 ![output image]( https://qengineering.eu/github/YoloCamGitHubSocialSmall.jpg ) ![output image]( https://qengineering.eu/github/YoloCamGitHubSocialSmallScreen.jpg )<br>
 A Raspberry Pi 4, 3 or Zero 2, with stand-alone AI object recognition, browser-based live streaming, email, cloud storage, GPIO and URL event triggers.<br>
@@ -9,6 +10,8 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone AI object recognition, browser-b
 A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras.
 
 ---------
+<b>Last two weeks</b><br>
+[![Image of https://github.com/Qengineering/my-views-counter](https://github.com/Qengineering/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Qengineering/my-views-counter)
 
 ## Table of Contents
 
@@ -173,8 +176,6 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
 ![output image]( https://qengineering.eu/github/SDcardDNN.jpg ) [**YoloCam**, the cheapest AI-powered camera with email notification, gdrive storage and GPIO output](https://github.com/Qengineering/YoloCam)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcardYoloIP.jpg ) [**YoloIP**, the cheapest AI-powered machine, supports multiple IP surveillance cameras](https://github.com/Qengineering/YoloIP)<br/><br/>
 ![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)<br>
-<b>Last two weeks</b><br>
-[![Image of https://github.com/Qengineering/my-views-counter](https://github.com/Qengineering/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Qengineering/my-views-counter)
 
 <!--
 ![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
