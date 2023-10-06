@@ -10,8 +10,6 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone AI object recognition, browser-b
 A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras.
 
 ---------
-<b>Last two weeks</b><br>
-[![Image of https://github.com/Qengineering/my-views-counter](https://github.com/Qengineering/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Qengineering/my-views-counter)
 
 ## Table of Contents
 
