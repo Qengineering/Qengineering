@@ -100,6 +100,8 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [OpenCV detect text in image RPi](https://github.com/Qengineering/OpenCV_OCR_Detect_Text)
     + [OpenCV recognize text with deep learning RPi](https://github.com/Qengineering/OpenCV_OCR_DNN)
     + [OpenCV recognize text with tesseract RPi](https://github.com/Qengineering/OpenCV_OCR_Tesseract)
+  * Parking 
+    + [XACTAI - OCR - License plate](https://github.com/xactai/SCALPR-01.5/tree/main/ALPR_1.5)
   * Super resolution
     + [real ESRGAN ncnn Raspberry Pi 4 ](https://github.com/Qengineering/Real-ESRGAN-ncnn-Raspberry-Pi-4)
     + [realsr ncnn Jetson Nano](https://github.com/Qengineering/realsr-ncnn-Jetson-Nano)
