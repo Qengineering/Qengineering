@@ -56,6 +56,7 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [OpenCV MobileNetV1_SSD Caffe Raspberry Pi 64](https://github.com/Qengineering/MobileNetV1_SSD_OpenCV_Caffe)
     + [OpenCV MobileNetV1_SSD TensorFlow Raspberry Pi 64](https://github.com/Qengineering/MobileNet_SSD_OpenCV_TensorFlow)
   * Tracking
+    + [ByteTrack with labels](https://github.com/Qengineering/ByteTrack_with_labels)
     + [Traffic counter camera Rpi 64](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
     + [ncnn YoloX + Tracking Rpi 64](https://github.com/Qengineering/YoloX-Tracking-ncnn-RPi_64-bit)
     + [ncnn NanoDet + Tracking Rpi 64](https://github.com/Qengineering/NanoDet-Tracking-ncnn-RPi_64-bit)
