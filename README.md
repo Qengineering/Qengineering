@@ -14,17 +14,21 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
 ## Table of Contents
 
 - ### Deep Learning
-  * Classification
+  * **Classification**
     + [TensorFlow Lite Raspberry Pi zero](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_zero)
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_32-bits)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_64-bits)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Classification_Jetson-Nano)
     + [ncnn ShuffleNetV2 Raspberry Pi](https://github.com/Qengineering/ShuffleNetV2-ncnn)
     + [ncnn SqueezeNet Raspberry Pi](https://github.com/Qengineering/SqueezeNet-ncnn)
-  * SSD
+  * **SSD**<br><br>
+      Raspberry Pi 4/5
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_32-bits)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_64-bits)
-    + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_SSD_Jetson-Nano)
+    + [OpenCV MobileNetV1_SSD Caffe Raspberry Pi 64](https://github.com/Qengineering/MobileNetV1_SSD_OpenCV_Caffe)
+    + [OpenCV MobileNetV1_SSD TensorFlow Raspberry Pi 64](https://github.com/Qengineering/MobileNet_SSD_OpenCV_TensorFlow)
+    + [ncnn Rfcn Raspberry Pi 64](https://github.com/Qengineering/Rfcn_ncnn)
+    + [ncnn Faster RCNN Raspberry Pi 64](https://github.com/Qengineering/Faster_RCNN_ncnn)
     + [ncnn PeeleeNet Raspberry Pi 64](https://github.com/Qengineering/PeleeNet_SSD)
     + [ncnn NanoDet Raspberry Pi 64](https://github.com/Qengineering/NanoDet-ncnn-Raspberry-Pi-4)
     + [ncnn NanoDet Plus Raspberry Pi 64](https://github.com/Qengineering/NanoDetPlus-ncnn-Raspberry-Pi-4)
@@ -38,7 +42,10 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [ncnn YoloV8 Raspberry Pi 64](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV9 Raspberry Pi 64](https://github.com/Qengineering/YoloV9-ncnn-Raspberry-Pi-4)
     + [ncnn YoloX Raspberry Pi 64](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4)
-    + [ncnn YoloFastestV2 Raspberry Pi 64](https://github.com/Qengineering/YoloFastestV2-ncnn-Raspberry-Pi-4)
+    + [ncnn YoloFastestV2 Raspberry Pi 64](https://github.com/Qengineering/YoloFastestV2-ncnn-Raspberry-Pi-4)<br><br>
+      Jetson Nano
+    + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_SSD_Jetson-Nano)
+    + [Darknet YoloV4 Jetson Nano](https://github.com/Qengineering/YoloV4-Darknet-Jetson-Nano)
     + [ncnn NanoDet Jetson Nano](https://github.com/Qengineering/NanoDet-ncnn-Jetson-Nano)
     + [ncnn NanoDet Plus Jetson Nano](https://github.com/Qengineering/NanoDetPlus-ncnn-Jetson-Nano)
     + [ncnn PP-PicoDet Jetson Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano)
@@ -49,32 +56,28 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [ncnn YoloV6 Jetson Nano](https://github.com/Qengineering/YoloV6-ncnn-Jetson-Nano)
     + [ncnn YoloV7 Jetson Nano](https://github.com/Qengineering/YoloV7-ncnn-Jetson-Nano)
     + [ncnn YoloX Jetson Nano](https://github.com/Qengineering/YoloX-ncnn-Jetson-Nano)
-    + [ncnn YoloFastetsV2 Jetson Nano](https://github.com/Qengineering/YoloFastest-ncnn-Jetson-Nano)
-    + [ncnn Rfcn Raspberry Pi 64](https://github.com/Qengineering/Rfcn_ncnn)
-    + [ncnn Faster RCNN Raspberry Pi 64](https://github.com/Qengineering/Faster_RCNN_ncnn)
+    + [ncnn YoloFastetsV2 Jetson Nano](https://github.com/Qengineering/YoloFastest-ncnn-Jetson-Nano)<br><br>
+      NPU RK3566/68/88 (Radxa Zero 3, Rock 5, Orange Pi 5)
     + [NPU YoloV5](https://github.com/Qengineering/YoloV5-NPU)
-    + [NPU YoloV8-seg](https://github.com/Qengineering/YoloV8-seg-NPU)
-    + [Darknet YoloV4 Jetson Nano](https://github.com/Qengineering/YoloV4-Darknet-Jetson-Nano)
-    + [OpenCV MobileNetV1_SSD Caffe Raspberry Pi 64](https://github.com/Qengineering/MobileNetV1_SSD_OpenCV_Caffe)
-    + [OpenCV MobileNetV1_SSD TensorFlow Raspberry Pi 64](https://github.com/Qengineering/MobileNet_SSD_OpenCV_TensorFlow)
-  * Tracking
+  * **Tracking**
     + [ByteTrack with labels](https://github.com/Qengineering/ByteTrack_with_labels)
     + [Traffic counter camera Rpi 64](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
     + [ncnn YoloX + Tracking Rpi 64](https://github.com/Qengineering/YoloX-Tracking-ncnn-RPi_64-bit)
     + [ncnn NanoDet + Tracking Rpi 64](https://github.com/Qengineering/NanoDet-Tracking-ncnn-RPi_64-bit)
     + [Tensorflow Lite + Tracking Rpi 64](https://github.com/Qengineering/TensorFlow_Lite-Tracking-RPi_64-bit)
-  * Segmentation
+  * **Segmentation**
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_32-bit)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_64-bit)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_Jetson-Nano)
     + [ncnn YoloV5 segmentation Rpi 64](https://github.com/Qengineering/YoloV5-segmentation-ncnn-RPi4)
     + [ncnn Yolact Raspberry Pi](https://github.com/Qengineering/Yolact-ncnn-Raspberry-Pi-4)
-  * Pose
+    + [NPU YoloV8-seg](https://github.com/Qengineering/YoloV8-seg-NPU)    
+  * **Pose**
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_32-bits)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_64-bits)
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Pose_Jetson-Nano)
     + [ncnn Raspberry Pi 64](https://github.com/Qengineering/ncnn_Pose_RPi_64-bits)   
-  * Face detection
+  * **Face detection**
     + [MNN Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/MNN)
     + [ncnn Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/ncnn)
     + [OpenCV Ultra Raspberry Pi 64](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits/tree/master/OpenCV)
@@ -87,59 +90,59 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [ncnn YoloV5 face Raspberry Pi 64](https://github.com/Qengineering/YoloV5-face-ncnn-RPi4)
     * Face detection with landmarks
       + [ncnn Ultra Raspberry Pi](https://github.com/Qengineering/Face-detection-Landmark-Raspberry-Pi-32-64-bits)
-  * Face mask detection
+  * **Face mask detection**
     + [ncnn + Paddle Raspberry Pi](https://github.com/Qengineering/Face-Mask-Detection-Raspberry-Pi-64-bits)
     + [ncnn + Paddle Jetson Nano](https://github.com/Qengineering/Face-Mask-Detection-Jetson-Nano)
     + [TensorFlow Raspberry Pi](https://github.com/Qengineering/TensorFlow_Lite_Face_Mask_RPi_64-bits)
     + [TensorFlow Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Face_Mask_Jetson-Nano)
-  * Face recognition
+  * **Face recognition**
     + [ncnn Raspberry Pi](https://github.com/Qengineering/Face-Recognition-Raspberry-Pi-64-bits)
     + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-Jetson-Nano)
     * Face recognition with mask
       + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
-  * OCR
+  * **OCR**
     + [PaddleOCR-Lite License plate RPi](https://github.com/Qengineering/PaddleOCR-Lite-License)
     + [PaddleOCR-Lite Document scanner RPi](https://github.com/Qengineering/PaddleOCR-Lite-Document)
     + [OpenCV detect text in image RPi](https://github.com/Qengineering/OpenCV_OCR_Detect_Text)
     + [OpenCV recognize text with deep learning RPi](https://github.com/Qengineering/OpenCV_OCR_DNN)
     + [OpenCV recognize text with tesseract RPi](https://github.com/Qengineering/OpenCV_OCR_Tesseract)
-  * Parking 
+  * **Parking** 
     + [XACTAI - OCR - License plate](https://github.com/xactai/ALPR_1.5_Public/tree/master/ALPR_1.5)
-  * Super-resolution
+  * **Super-resolution**
     + [real ESRGAN ncnn Raspberry Pi 4 ](https://github.com/Qengineering/Real-ESRGAN-ncnn-Raspberry-Pi-4)
     + [realsr ncnn Jetson Nano](https://github.com/Qengineering/realsr-ncnn-Jetson-Nano)
-  * Face reconstruction
+  * **Face reconstruction**
     + [GFPGAN ncnn Raspberry Pi 4 ](https://github.com/Qengineering/GFPGAN-ncnn-Raspberry-Pi-4)
-  * Age Gender estimation
+  * **Age Gender estimation**
     + [OpenCV Raspberry Pi](https://github.com/Qengineering/Age-Gender-OpenCV-Raspberry-Pi-4)
-  * Head pose estimation
+  * **Head pose estimation**
     + [ncnn Ultra Raspberry Pi 64](https://github.com/Qengineering/Head-Pose-ncnn-Raspberry-Pi-4)
-  * Hand pose estimation
+  * **Hand pose estimation**
     + [ncnn NanoDet Raspberry Pi 64](https://github.com/Qengineering/Hand-Pose-ncnn-Raspberry-Pi-4)
-  * Colorization
+  * **Colorization**
     + [ncnn Colorization Raspberry Pi 64](https://github.com/Qengineering/ncnn-Colorization_Raspberry-Pi-4)
-  * QR and bar code
+  * **QR and bar code**
     + [ZBar Raspberry Pi](https://github.com/Qengineering/QR_scanner_Raspberry_Pi)
 - ### Wheels
-  * TensorFlow
+  * **TensorFlow**
     + [Raspberry Pi 32](https://github.com/Qengineering/TensorFlow-Raspberry-Pi)
     + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Raspberry-Pi_64-bit)
     + [Jetson Nano](https://github.com/Qengineering/TensorFlow-JetsonNano)
-  * TensorFlow Lite
+  * **TensorFlow Lite**
     + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Lite-Raspberry-Pi_64-bit)
     + [Jetson Nano](https://github.com/Qengineering/TensorFlow-Lite-Raspberry-Pi_64-bit)
-  * TensorFlow Addons
+  * **TensorFlow Addons**
     + [Raspberry Pi 64](https://github.com/Qengineering/TensorFlow-Addons-Raspberry-Pi_64-bit)
     + [Jetson Nano](https://github.com/Qengineering/TensorFlow-Addons-Jetson-Nano)
-  * PyTorch
+  * **PyTorch**
     + [Raspberry Pi 64](https://github.com/Qengineering/PyTorch-Raspberry-Pi-64-OS)
     + [Jetson Nano](https://github.com/Qengineering/PyTorch-Jetson-Nano)
-  * PaddlePaddle
+  * **PaddlePaddle**
     + [Raspberry Pi 64](https://github.com/Qengineering/Paddle-Raspberry-Pi)
     + [Jetson Nano](https://github.com/Qengineering/Paddle-Jetson-Nano)
-  * TensorRT
+  * **TensorRT**
     + [Jetson Nano Ubuntu 20.04](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)
-  * OpenCV
+  * **OpenCV**
     + [Raspberry Pi 32](https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-32-bits)
     + [Raspberry Pi 64](https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-64-bits)  
     + [Jetson Nano](https://github.com/Qengineering/Install-OpenCV-Jetson-Nano)
