@@ -59,6 +59,7 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [ncnn YoloFastetsV2 Jetson Nano](https://github.com/Qengineering/YoloFastest-ncnn-Jetson-Nano)<br><br>
       NPU RK3566/68/88 (Radxa Zero 3, Rock 5, Orange Pi 5)
     + [NPU YoloV5](https://github.com/Qengineering/YoloV5-NPU)
+    + [NPU YoloV6](https://github.com/Qengineering/YoloV6-NPU)
     + [NPU YoloV8](https://github.com/Qengineering/YoloV8-NPU)
   * **Tracking**
     + [ByteTrack with labels](https://github.com/Qengineering/ByteTrack_with_labels)
