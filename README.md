@@ -75,6 +75,7 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_Jetson-Nano)
     + [ncnn YoloV5 segmentation Rpi 64](https://github.com/Qengineering/YoloV5-segmentation-ncnn-RPi4)
     + [ncnn Yolact Raspberry Pi](https://github.com/Qengineering/Yolact-ncnn-Raspberry-Pi-4)
+    + [NPU YoloV5-seg](https://github.com/Qengineering/YoloV5-seg-NPU)    
     + [NPU YoloV8-seg](https://github.com/Qengineering/YoloV8-seg-NPU)    
   * **Pose**
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_32-bits)
