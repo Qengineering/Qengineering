@@ -62,6 +62,7 @@ A Raspberry Pi 4, with stand-alone AI, supports multiple IP surveillance cameras
     + [NPU YoloV6](https://github.com/Qengineering/YoloV6-NPU)
     + [NPU YoloV7](https://github.com/Qengineering/YoloV7-NPU)
     + [NPU YoloV8](https://github.com/Qengineering/YoloV8-NPU)
+    + [NPU YoloX](https://github.com/Qengineering/YoloX-NPU)
   * **Tracking**
     + [ByteTrack with labels](https://github.com/Qengineering/ByteTrack_with_labels)
     + [Traffic counter camera Rpi 64](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
