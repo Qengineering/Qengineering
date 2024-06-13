@@ -33,6 +33,8 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
     + [ncnn NanoDet Raspberry Pi 64](https://github.com/Qengineering/NanoDet-ncnn-Raspberry-Pi-4)
     + [ncnn NanoDet Plus Raspberry Pi 64](https://github.com/Qengineering/NanoDetPlus-ncnn-Raspberry-Pi-4)
     + [ncnn PP-PicoDet Raspberry Pi 64](https://github.com/Qengineering/PP-PicoDet-ncnn-Raspberry-Pi-4)
+    + [ncnn YoloFastestV2 Raspberry Pi 64](https://github.com/Qengineering/YoloFastestV2-ncnn-Raspberry-Pi-4)
+    + [ncnn YoloX Raspberry Pi 64](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV2 Raspberry Pi 64](https://github.com/Qengineering/YoloV2-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV3 Raspberry Pi 64](https://github.com/Qengineering/YoloV3-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV4 Raspberry Pi 64](https://github.com/Qengineering/YoloV4-ncnn-Raspberry-Pi-4)
@@ -41,23 +43,21 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
     + [ncnn YoloV7 Raspberry Pi 64](https://github.com/Qengineering/YoloV7-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV8 Raspberry Pi 64](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4)
     + [ncnn YoloV9 Raspberry Pi 64](https://github.com/Qengineering/YoloV9-ncnn-Raspberry-Pi-4)
-    + [ncnn YoloV10 Raspberry Pi 64](https://github.com/Qengineering/YoloV10-ncnn-Raspberry-Pi-4)
-    + [ncnn YoloX Raspberry Pi 64](https://github.com/Qengineering/YoloX-ncnn-Raspberry-Pi-4)
-    + [ncnn YoloFastestV2 Raspberry Pi 64](https://github.com/Qengineering/YoloFastestV2-ncnn-Raspberry-Pi-4)<br><br>
+    + [ncnn YoloV10 Raspberry Pi 64](https://github.com/Qengineering/YoloV10-ncnn-Raspberry-Pi-4)<br><br>
       Jetson Nano
     + [TensorFlow Lite Jetson Nano](https://github.com/Qengineering/TensorFlow_Lite_SSD_Jetson-Nano)
     + [Darknet YoloV4 Jetson Nano](https://github.com/Qengineering/YoloV4-Darknet-Jetson-Nano)
     + [ncnn NanoDet Jetson Nano](https://github.com/Qengineering/NanoDet-ncnn-Jetson-Nano)
     + [ncnn NanoDet Plus Jetson Nano](https://github.com/Qengineering/NanoDetPlus-ncnn-Jetson-Nano)
     + [ncnn PP-PicoDet Jetson Nano](https://github.com/Qengineering/PP-PicoDet-ncnn-Jeston-Nano)
+    + [ncnn YoloFastetsV2 Jetson Nano](https://github.com/Qengineering/YoloFastest-ncnn-Jetson-Nano)
+    + [ncnn YoloX Jetson Nano](https://github.com/Qengineering/YoloX-ncnn-Jetson-Nano)
     + [ncnn YoloV2 Jetson Nano](https://github.com/Qengineering/YoloV2-ncnn-Jetson-Nano)
     + [ncnn YoloV3 Jetson Nano](https://github.com/Qengineering/YoloV3-ncnn-Jetson-Nano)
     + [ncnn YoloV4 Jetson Nano](https://github.com/Qengineering/YoloV4-ncnn-Jetson-Nano)
     + [ncnn YoloV5 Jetson Nano](https://github.com/Qengineering/YoloV5-ncnn-Jetson-Nano)
     + [ncnn YoloV6 Jetson Nano](https://github.com/Qengineering/YoloV6-ncnn-Jetson-Nano)
-    + [ncnn YoloV7 Jetson Nano](https://github.com/Qengineering/YoloV7-ncnn-Jetson-Nano)
-    + [ncnn YoloX Jetson Nano](https://github.com/Qengineering/YoloX-ncnn-Jetson-Nano)
-    + [ncnn YoloFastetsV2 Jetson Nano](https://github.com/Qengineering/YoloFastest-ncnn-Jetson-Nano)<br><br>
+    + [ncnn YoloV7 Jetson Nano](https://github.com/Qengineering/YoloV7-ncnn-Jetson-Nano)<br><br>
       TensorRT
     + [TensorRT YoloV8.2 Jetson (Orin) Nano](https://github.com/Qengineering/YoloV8-TensorRT-Jetson_Nano)<br><br>
       NPU RK3566/68/88 (Radxa Zero 3, Rock 5, Orange Pi 5)
