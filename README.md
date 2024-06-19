@@ -62,11 +62,12 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
     + [TensorRT YoloV8.2 Jetson (Orin) Nano](https://github.com/Qengineering/YoloV8-TensorRT-Jetson_Nano)<br><br>
       NPU RK3566/68/88 (Radxa Zero 3, Rock 5, Orange Pi 5, Rock5c)
     + [NPU PP YoloE](https://github.com/Qengineering/PPYoloE-NPU)
+    + [NPU YoloX](https://github.com/Qengineering/YoloX-NPU)
     + [NPU YoloV5](https://github.com/Qengineering/YoloV5-NPU)
     + [NPU YoloV6](https://github.com/Qengineering/YoloV6-NPU)
     + [NPU YoloV7](https://github.com/Qengineering/YoloV7-NPU)
     + [NPU YoloV8](https://github.com/Qengineering/YoloV8-NPU)
-    + [NPU YoloX](https://github.com/Qengineering/YoloX-NPU)
+    + [NPU YoloV10](https://github.com/Qengineering/YoloV10-NPU)
   * **Tracking**
     + [ByteTrack with labels](https://github.com/Qengineering/ByteTrack_with_labels)
     + [Traffic counter camera Rpi 64](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
