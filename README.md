@@ -157,6 +157,9 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
     + [Raspberry Pi 64](https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-64-bits)  
     + [Jetson Nano](https://github.com/Qengineering/Install-OpenCV-Jetson-Nano)
 - ### Miscellaneous
+  * **rtop**
+    + [rtop Ubuntu](https://github.com/Qengineering/rtop-Ubuntu)
+    + [rtop KDE](https://github.com/Qengineering/rtop-KDE) 
   * OpenCV
     + [libcamera C++ API wrapper Bullseye 64](https://github.com/Qengineering/LCCV)
     * GStreamer
