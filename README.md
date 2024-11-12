@@ -60,7 +60,7 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
     + [ncnn YoloV7 Jetson Nano](https://github.com/Qengineering/YoloV7-ncnn-Jetson-Nano)<br><br>
       TensorRT
     + [TensorRT YoloV8.2 Jetson (Orin) Nano](https://github.com/Qengineering/YoloV8-TensorRT-Jetson_Nano)<br><br>
-      NPU RK3566/68/88 (Radxa Zero 3, Rock 5, Orange Pi 5, Rock5c)
+      NPU RK3566/68/88 (Radxa Zero 3, Rock 5, Orange Pi 5, Rock 5C)
     + [NPU PP YoloE](https://github.com/Qengineering/PPYoloE-NPU)
     + [NPU YoloX](https://github.com/Qengineering/YoloX-NPU)
     + [NPU YoloV5](https://github.com/Qengineering/YoloV5-NPU)
@@ -70,10 +70,12 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
     + [NPU YoloV10](https://github.com/Qengineering/YoloV10-NPU)
   * **Tracking**
     + [ByteTrack with labels](https://github.com/Qengineering/ByteTrack_with_labels)
-    + [Traffic counter camera Rpi 64](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
     + [ncnn YoloX + Tracking Rpi 64](https://github.com/Qengineering/YoloX-Tracking-ncnn-RPi_64-bit)
     + [ncnn NanoDet + Tracking Rpi 64](https://github.com/Qengineering/NanoDet-Tracking-ncnn-RPi_64-bit)
     + [Tensorflow Lite + Tracking Rpi 64](https://github.com/Qengineering/TensorFlow_Lite-Tracking-RPi_64-bit)
+  * **Traffic**
+    + [Traffic counter camera Rpi 64](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
+    + [Traffic counter camera Rock 5C](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
   * **Segmentation**
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_32-bit)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_64-bit)
