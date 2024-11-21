@@ -75,7 +75,7 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
     + [Tensorflow Lite + Tracking Rpi 64](https://github.com/Qengineering/TensorFlow_Lite-Tracking-RPi_64-bit)
   * **Traffic**
     + [Traffic counter camera Rpi 64](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
-    + [Traffic counter camera Rock 5C](https://github.com/Qengineering/Traffic-Counter-RPi_64-bit) 
+    + [Traffic counter camera Rock 5C](https://github.com/Qengineering/Traffic-Counter-Rock5C) 
   * **Segmentation**
     + [TensorFlow Lite Raspberry Pi 32](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_32-bit)
     + [TensorFlow Lite Raspberry Pi 64](https://github.com/Qengineering/TensorFlow_Lite_Segmentation_RPi_64-bit)
