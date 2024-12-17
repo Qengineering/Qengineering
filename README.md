@@ -64,6 +64,7 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
     + [NPU PP YoloE](https://github.com/Qengineering/PPYoloE-NPU)
     + [NPU YoloX](https://github.com/Qengineering/YoloX-NPU)
     + [NPU YoloV5](https://github.com/Qengineering/YoloV5-NPU)
+    + [NPU YoloV5 multithread](https://github.com/Qengineering/YoloV5-NPU-Multithread)
     + [NPU YoloV6](https://github.com/Qengineering/YoloV6-NPU)
     + [NPU YoloV7](https://github.com/Qengineering/YoloV7-NPU)
     + [NPU YoloV8](https://github.com/Qengineering/YoloV8-NPU)
