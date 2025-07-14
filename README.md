@@ -203,13 +203,13 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
 <!--
 ![Qengineering's github stats](https://github-readme-stats.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)
 -->
-
+<!--
 <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Qengineering/count.svg" />
 </p>
 <br>
-
+-->
 [![paypal](https://qengineering.eu/github/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
 
 <!--
