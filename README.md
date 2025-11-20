@@ -13,6 +13,14 @@ A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance ca
 
 ## Table of Contents
 
+- ### AI
+  * **VLM**
+    + [InternVL3-1B](https://github.com/Qengineering/InternVL3-NPU)
+    + [SmolVLM2-2.2B](https://github.com/Qengineering/SmolVLM2-2B-NPU)
+    + [SmolVLM2-500M](https://github.com/Qengineering/SmolVLM2-500M-NPU)
+    + [SmolVLM2-256M](https://github.com/Qengineering/SmolVLM2-256M-NPU)
+    + [Qwen2-2.2B](https://github.com/Qengineering/Qwen2-2B-NPU)
+    + [Qwen2-7B](https://github.com/Qengineering/Qwen2-7B-NPU)
 - ### Deep Learning
   * **Classification**
     + [TensorFlow Lite Raspberry Pi zero](https://github.com/Qengineering/TensorFlow_Lite_Classification_RPi_zero)
