@@ -7,7 +7,10 @@
 A Raspberry Pi 4, 3 or Zero 2, with stand-alone AI object recognition, browser-based live streaming, email, cloud storage, GPIO and URL event triggers.<br>
 #### **[YoloIP](https://github.com/Qengineering/YoloIP)** 
 ![output image]( https://qengineering.eu/github/YoloIPGitHubSocialSmall.jpg ) ![output image]( https://qengineering.eu/github/YoloIPGitHubSocialSmallScreen.jpg )<br>
-A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance cameras.
+A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance cameras.<br>
+## **[Rock5GPT](https://rock5gpt.qengineering.eu)**
+<img width="543" height="767" alt="Rock5GPT" src="https://github.com/user-attachments/assets/3ce5ad31-bc2b-4513-8ac9-42be793a86db" /><br>
+A professional Qwen3 AI-chatbot running on a Rock 5C.
 
 ---------
 
