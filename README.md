@@ -214,7 +214,7 @@ A professional Qwen3 AI-chatbot running on a Rock 5C.
 ![output image]( https://qengineering.eu/github/SDcardDNN.jpg ) [**YoloCam**, the cheapest AI-powered camera with email notification, gdrive storage and GPIO output](https://github.com/Qengineering/YoloCam)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcardYoloIP.jpg ) [**YoloIP**, the cheapest AI-powered machine, supports multiple IP surveillance cameras](https://github.com/Qengineering/YoloIP)<br/><br/>
 
-![statistics](https://github-readme-stats-r4ppv5gun-qengineerings-projects.vercel.app/api?username=Qengineering&cachebust=20260107)<br>
+![statistics](https://github-readme-stats-auj21bfum-qengineerings-projects.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33)<br>
 
 <!--
 ![stats](https://github-readme-stats-r4ppv5gun-qengineerings-projects.vercel.app/api?username=Qengineering&count_private=true&show_icon=true&card_width=400&bg_color=00000000&title_color=005E2C&text_color=949CA5&show_icons=true&hide_border=true&icon_color=00BE33&cachebust=20260107)<br>
