@@ -206,7 +206,7 @@ A professional Qwen3 AI-chatbot running on a Rock 5C.
 ![output image]( https://qengineering.eu/github/SDcard16GB_banana.jpg ) [Banana Pi M2 Zero image **with OV5640** camera and OpenCV](https://github.com/Qengineering/BananaPi-M2-Zero-OV5640)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard32GB_RockPi5.jpg ) [Rock 5 with OpenCV, TNN, ncnn and **NPU**](https://github.com/Qengineering/Rock-5-image)<br><br>
 ![output image]( https://qengineering.eu/github/RockPi5_Ubuntu_22.jpg ) [Rock 5 with **Ubuntu 22.04**, OpenCV, ncnn and **NPU**](https://github.com/Qengineering/Rock-5-Ubuntu-22-image)<br><br>
-![output image]( https://qengineering.eu/github/RadxaZero3_Ubuntu_22.jpg ) [Radxa Zero 3 with **Ubuntu 22.04**, OpenCV, ncnn and **NPU**](https://github.com/Qengineering/Radxa-Zero-3-NPU-Ubuntu22)<br><br>
+![output image]( https://qengineering.eu/github/RadxaZero3_Ubuntu_22.jpg ) [Radxa Zero 3 with **Ubuntu 24.04**, OpenCV, ncnn and **NPU**](https://github.com/Qengineering/Radxa-Zero-3-NPU-Ubuntu24)<br><br>
 ![output image]( https://qengineering.eu/github/SDcard32GB_smallJetson.jpg ) [A Jetson Nano image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-image)<br/><br/>
 ![output image]( https://qengineering.eu/github/SDcard32GBJetsonUB20small.jpg ) [A Jetson Nano - **Ubuntu 20.04** image with OpenCV, TensorFlow and PyTorch](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image)<br/><br/>
 - ### Applications
