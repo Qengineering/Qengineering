@@ -19,6 +19,7 @@ A professional Qwen3 AI-chatbot running on a Rock 5C.
 - ### AI
   * **VLM**<br>
     NPU RK3588 (Rock 5A, Orange Pi 5, Rock 5C)
+    + [Qwen3-**Video**](https://github.com/Qengineering/Qwen3-VL-NPU-VIDEO)
     + [Qwen3-2B](https://github.com/Qengineering/Qwen3-VL-2B-NPU)
     + [Qwen3-4B](https://github.com/Qengineering/Qwen3-VL-4B-NPU)
     + [InternVL3.5-1B](https://github.com/Qengineering/InternVL3.5-1B-NPU)
