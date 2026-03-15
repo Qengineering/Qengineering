@@ -134,8 +134,8 @@ A professional Qwen3 AI-chatbot running on a Rock 5C.
     * Face recognition with mask
       + [ncnn Jetson Nano](https://github.com/Qengineering/Face-Recognition-with-Mask-Jetson-Nano)
   * **OCR**
+    + [**ncnn** PaddleOCR (v5) Document scanner RPi](https://github.com/Qengineering/PaddleOCR-Lite-Document)
     + [PaddleOCR-Lite License plate RPi](https://github.com/Qengineering/PaddleOCR-Lite-License)
-    + [PaddleOCR-Lite Document scanner RPi](https://github.com/Qengineering/PaddleOCR-Lite-Document)
     + [OpenCV detect text in image RPi](https://github.com/Qengineering/OpenCV_OCR_Detect_Text)
     + [OpenCV recognize text with deep learning RPi](https://github.com/Qengineering/OpenCV_OCR_DNN)
     + [OpenCV recognize text with tesseract RPi](https://github.com/Qengineering/OpenCV_OCR_Tesseract)
