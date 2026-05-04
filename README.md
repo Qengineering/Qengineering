@@ -180,10 +180,12 @@ A professional Qwen3 AI-chatbot running on a Rock 5C.
     + [Raspberry Pi 64](https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-64-bits)  
     + [Jetson Nano](https://github.com/Qengineering/Install-OpenCV-Jetson-Nano)
 - ### Miscellaneous
+  * **Joshua Riek**
+    + [RK35xx-CopyFail-Hotfix](https://github.com/Qengineering/RK35xx-CopyFail-Hotfix)
   * **rtop**
     + [rtop Ubuntu](https://github.com/Qengineering/rtop-Ubuntu)
     + [rtop KDE](https://github.com/Qengineering/rtop-KDE) 
-  * OpenCV
+  * **OpenCV**
     + [libcamera C++ API wrapper Bullseye 64](https://github.com/Qengineering/LCCV)
     * GStreamer
       * Buster
@@ -198,11 +200,11 @@ A professional Qwen3 AI-chatbot running on a Rock 5C.
     + [Qt5 RPi 64 + Jetson Nano](https://github.com/Qengineering/Qt5-OpenCV-Raspberry-Pi-Jetson-Nano)
     + [Blur detection](https://github.com/Qengineering/Blur-detection-with-FFT-in-C)
     + [Fast background substraction](https://github.com/Qengineering/Fast-Background-Substraction)
-  * Sensors
+  * **Sensors**
     + [DHT22 sensor](https://github.com/Qengineering/DHT22-Raspberry-Pi)
-  * Caffe
+  * **Caffe**
     + [cuDNN 8.0 + CUDA 10.3 WeiLui SSD Fork + Configuration files RPi, Jetson](https://github.com/Qengineering/caffe)
-  * NPU
+  * **NPU**
     + [RKNN model zoo](https://github.com/Qengineering/rknn_model_zoo)
 - ### Images
 ![output image]( https://qengineering.eu/github/SDcard32GB_small.jpg ) [Raspberry Pi 4 **Bullseye** 64-bit OS with several frameworks and deep-learning examples](https://github.com/Qengineering/RPi-Bullseye-DNN-image)<br/><br/>
