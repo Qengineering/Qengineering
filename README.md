@@ -10,7 +10,7 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone AI object recognition, browser-b
 A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance cameras.<br>
 ## **[Rock5GPT](https://rock5gpt.qengineering.eu)**
 <img width="543" height="767" alt="Rock5GPT" src="https://github.com/user-attachments/assets/3ce5ad31-bc2b-4513-8ac9-42be793a86db" /><br>
-A professional Qwen3.5 AI chatbot running on a Rock 5C.
+A professional **Qwen3.5 AI chatbot** running on a **Rock 5C**.
 
 ---------
 
@@ -19,7 +19,7 @@ A professional Qwen3.5 AI chatbot running on a Rock 5C.
 - ### AI
   * **VLM**<br>
     NPU RK3588 (Rock 5A, Orange Pi 5, Rock 5C)
-    + [Qwen3.5-VL-2B](https://github.com/Qengineering/Qwen3.5-VL-2B-NPU)
+    + [Qwen**3.5**-VL-2B](https://github.com/Qengineering/Qwen3.5-VL-2B-NPU)
     + [Qwen3-**Video**](https://github.com/Qengineering/Qwen3-VL-NPU-VIDEO)
     + [Qwen3-VL-2B](https://github.com/Qengineering/Qwen3-VL-2B-NPU)
     + [Qwen3-VL-4B](https://github.com/Qengineering/Qwen3-VL-4B-NPU)
