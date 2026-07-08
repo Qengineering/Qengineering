@@ -10,7 +10,7 @@ A Raspberry Pi 4, 3 or Zero 2, with stand-alone AI object recognition, browser-b
 A Raspberry Pi 4 or 5, with stand-alone AI, supports multiple IP surveillance cameras.<br>
 ## **[Rock5GPT](https://rock5gpt.qengineering.eu)**
 <img width="543" height="767" alt="Rock5GPT" src="https://github.com/user-attachments/assets/3ce5ad31-bc2b-4513-8ac9-42be793a86db" /><br>
-A professional Qwen3 AI-chatbot running on a Rock 5C.
+A professional Qwen3.5 AI chatbot running on a Rock 5C.
 
 ---------
 
@@ -19,16 +19,17 @@ A professional Qwen3 AI-chatbot running on a Rock 5C.
 - ### AI
   * **VLM**<br>
     NPU RK3588 (Rock 5A, Orange Pi 5, Rock 5C)
+    + [Qwen3.5-VL-2B](https://github.com/Qengineering/Qwen3.5-VL-2B-NPU)
     + [Qwen3-**Video**](https://github.com/Qengineering/Qwen3-VL-NPU-VIDEO)
-    + [Qwen3-2B](https://github.com/Qengineering/Qwen3-VL-2B-NPU)
-    + [Qwen3-4B](https://github.com/Qengineering/Qwen3-VL-4B-NPU)
+    + [Qwen3-VL-2B](https://github.com/Qengineering/Qwen3-VL-2B-NPU)
+    + [Qwen3-VL-4B](https://github.com/Qengineering/Qwen3-VL-4B-NPU)
     + [InternVL3.5-1B](https://github.com/Qengineering/InternVL3.5-1B-NPU)
     + [InternVL3.5-2B](https://github.com/Qengineering/InternVL3.5-2B-NPU)
     + [InternVL3.5-4B](https://github.com/Qengineering/InternVL3.5-4B-NPU)
     + [InternVL3.5-8B](https://github.com/Qengineering/InternVL3.5-8B-NPU)
-    + [Qwen2.5-3B](https://github.com/Qengineering/Qwen2.5-VL-3B-NPU)
-    + [Qwen2-7B](https://github.com/Qengineering/Qwen2-VL-7B-NPU)
-    + [Qwen2-2.2B](https://github.com/Qengineering/Qwen2-VL-2B-NPU)
+    + [Qwen2.5-VL-3B](https://github.com/Qengineering/Qwen2.5-VL-3B-NPU)
+    + [Qwen2-VL-7B](https://github.com/Qengineering/Qwen2-VL-7B-NPU)
+    + [Qwen2-VL-2.2B](https://github.com/Qengineering/Qwen2-VL-2B-NPU)
     + [InternVL3-1B](https://github.com/Qengineering/InternVL3-NPU)
     + [SmolVLM2-2.2B](https://github.com/Qengineering/SmolVLM2-2B-NPU)
     + [SmolVLM2-500M](https://github.com/Qengineering/SmolVLM2-500M-NPU)
